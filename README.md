@@ -4,3 +4,4 @@ different dumbell plot and in this series the first plot is created with India c
 the difference between male and female literacy rate at state level.
 
 1. Create a dumbell plot showing literacy rate difference between male and female at state level based on India census 2011 data.
+2. Create a dumbell plot showing Rural Urban population divide based on India census 2011 data.
